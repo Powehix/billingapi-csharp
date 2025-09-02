@@ -7,10 +7,9 @@ A sample **Billing API** built with ASP.NET Core, demonstrating clean architectu
 ## 🚀 Run the API
 1. Install [.NET 9 SDK](https://dotnet.microsoft.com/download/dotnet/9.0).
 2. Clone the repository.
-3. Set BillingApi as Startup project.
-4. Run IIS Express.
-5. Open Swagger UI:
-   - https://localhost:xxxx/swagger
+3. Set **BillingApi** as **Startup project**.
+4. Run **IIS Express**.
+5. Open Swagger UI: https://localhost:xxxx/swagger.
 
 ---
 
